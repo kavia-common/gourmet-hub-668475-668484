@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/gourmet-hub-668475-668484/zomato_frontend_web"
+}
